@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Function-as-a-service (FaaS)**
 
-- 🌱 I’m currently learning **Golang, Kubernetes, Web development**
+- 🌱 I’m currently learning **Golang, Kubernetes, FaaS, Web development**
 
 - 👯 I’m looking to collaborate on **OpenFaaS**
 
-- 💬 Ask me about **Networking, SDN, Network Security, AWS Services**
+- 💬 Ask me about **Networking, SDN, Network Security, Microservices, AWS Services**
 
 - 📫 How to reach me **nehavadnere.neha@gmail.com**
 
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nehavadnere&show_icons=true&locale=en&layout=compact" alt="nehavadnere" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nehavadnere&show_icons=true&locale=en" alt="nehavadnere" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nehavadnere&show_icons=true&locale=en&count_private=true" alt="nehavadnere" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nehavadnere&" alt="nehavadnere" /></p>
 
