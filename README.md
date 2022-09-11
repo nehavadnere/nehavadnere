@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Networking, SDN, Network Security, Microservices, AWS Services**
 
-- 📫 How to reach me **nehavadnere.neha@gmail.com**
+<!-- - 📫 How to reach me **nehavadnere.neha@gmail.com** -->
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/neha-vadnere/](https://www.linkedin.com/in/neha-vadnere/)
 
