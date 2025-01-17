@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Neha Vadnere</h1>
-<h3 align="center">Engaged, creative computer science professional with 4+ years of industry experience and 3+ years of research experience.</h3>
+<h3 align="center">Engaged, creative computer science professional with 4+ years of industry experience and 5+ years of research experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehavadnere&label=Profile%20views&color=0e75b6&style=flat" alt="nehavadnere" /> </p>
 
